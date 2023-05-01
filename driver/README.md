@@ -3,6 +3,9 @@
 ## Current goals
 
 - [ ] Symbolically trace the handlers
+- [ ] Lift to LLVM IR and optimize
+- [ ] Profit
+
 
 ## Handler Offset Table
 
